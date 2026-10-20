@@ -64,11 +64,11 @@ The supplied notebook contains real executed outputs. Its preparation used seque
 
 ## Visual results
 
-![Learning curves](results/learning_curves.png)
+![Learning curves](learning_curves.png)
 
-![Greedy route](results/policy_route.png)
+![Greedy route](policy_route.png)
 
-![Successful agent](results/trained_agent.gif)
+![Successful agent](trained_agent.gif)
 
 ## References
 
